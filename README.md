@@ -58,7 +58,7 @@ Privacy Policy
 
 
 Register page
-![image alt](https://github.com/Shuyi-Huang/SolutionSelling/blob/4a2768805a81d63de099c09770e88b2196868a80/IMG/Screenshot%202025-12-23%20at%2012.05.38.png)
+![image alt](https://github.com/Shuyi-Huang/SolutionSelling/blob/18896f26d40057975bff05c068423490b3c93640/IMG/Screenshot%202025-12-23%20at%2012.05.49.png)
 
 
 Login Page
